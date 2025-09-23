@@ -5,7 +5,7 @@ import config from "./zosite.json";
 
 const app = new Hono();
 
-const css = `
+const css = html`
   body {
     font-family: 'Playfair Display', serif;
     background-color: #e6d7c3;
