@@ -1,4 +1,5 @@
 import { Hono } from "hono";
+import { serveStatic } from "hono/bun";
 import type { FC } from "hono/jsx";
 import { html } from "hono/html";
 import config from "./zosite.json";
@@ -29,6 +30,7 @@ const Layout: FC = (props) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="noindex, nofollow" />
         <title>{config.name}</title>
+        <link rel="icon" type="image/png" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
         <style dangerouslySetInnerHTML={{ __html: css }} />
       </head>
@@ -36,6 +38,9 @@ const Layout: FC = (props) => {
     </html>
   );
 };
+
+// Serve favicon
+app.get('/favicon.ico', serveStatic({ path: './res/happymac.png' }));
 
 app.get("/", (c) => {
   return c.html(
