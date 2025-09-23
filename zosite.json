@@ -1,0 +1,13 @@
+{
+  "name": "public",
+  "local_port": 40290,
+  "entrypoint": "bun run --hot index.tsx",
+  "publish": {
+    "label": "public",
+    "type": "http",
+    "entrypoint": "bun run index.tsx",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+}
