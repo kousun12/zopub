@@ -109,6 +109,9 @@ const Layout: FC<{ children: any; isReading?: boolean }> = (props) => {
 // Serve favicon
 app.get('/favicon.ico', serveStatic({ path: './res/happymac.png' }));
 
+// Serve all files from res/ directory
+app.use('/res/*', serveStatic({ root: './' }));
+
 app.get("/", (c) => {
   return c.html(
     <Layout>
