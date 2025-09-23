@@ -6,7 +6,7 @@ import config from "./zosite.json";
 
 const app = new Hono();
 
-const css = `
+const homepageCSS = `
   body {
     font-family: 'Playfair Display', serif;
     background-color: #e6d7c3;
@@ -22,7 +22,71 @@ const css = `
   }
 `;
 
-const Layout: FC = (props) => {
+const readingCSS = `
+  body {
+    font-family: 'Playfair Display', serif;
+    background-color: #f5f1eb;
+    margin: 0;
+    padding: 2rem;
+    line-height: 1.7;
+    color: #2c2c2c;
+  }
+  
+  .reading-container {
+    max-width: 65ch;
+    margin: 0 auto;
+    padding: 2rem 0;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #1a1a1a;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+    padding: 0.5rem 0;
+  }
+  
+  a {
+    color: #8b4513;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.2s ease;
+  }
+  
+  a:hover {
+    border-bottom: 1px solid #8b4513;
+  }
+  
+  em {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .back-link {
+    display: block;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 1rem;
+  }
+`;
+
+const Layout: FC<{ children: any; isReading?: boolean }> = (props) => {
+  const cssToUse = props.isReading ? readingCSS : homepageCSS;
+  
   return (
     <html lang="en">
       <head>
@@ -31,8 +95,11 @@ const Layout: FC = (props) => {
         <meta name="robots" content="noindex, nofollow" />
         <title>{config.name}</title>
         <link rel="icon" type="image/png" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
-        <style dangerouslySetInnerHTML={{ __html: css }} />
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet" />
+        <style dangerouslySetInnerHTML={{ __html: cssToUse }} />
+        {props.isReading && (
+          <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+        )}
       </head>
       <body>{props.children}</body>
     </html>
@@ -48,6 +115,54 @@ app.get("/", (c) => {
       <div class="text">Rob's public stuff</div>
     </Layout>,
   );
+});
+
+app.get("/bibliography", async (c) => {
+  try {
+    const file = Bun.file('./res/bibliography.md');
+    const content = await file.text();
+    
+    return c.html(
+      <Layout isReading={true}>
+        <div class="reading-container">
+          <div id="markdown-content"></div>
+          <a href="/" class="back-link">← Back to home</a>
+        </div>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+            const markdown = ${JSON.stringify(content)};
+            document.getElementById('markdown-content').innerHTML = marked.parse(markdown);
+          `
+        }} />
+      </Layout>,
+    );
+  } catch (error) {
+    return c.text('Bibliography not found', 404);
+  }
+});
+
+app.get("/pale-king", async (c) => {
+  try {
+    const file = Bun.file('./res/DFW-Pale-King-19.md');
+    const content = await file.text();
+    
+    return c.html(
+      <Layout isReading={true}>
+        <div class="reading-container">
+          <div id="markdown-content"></div>
+          <a href="/" class="back-link">← Back to home</a>
+        </div>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+            const markdown = ${JSON.stringify(content)};
+            document.getElementById('markdown-content').innerHTML = marked.parse(markdown);
+          `
+        }} />
+      </Layout>,
+    );
+  } catch (error) {
+    return c.text('Pale King excerpt not found', 404);
+  }
 });
 
 export default {
