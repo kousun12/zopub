@@ -6,6 +6,7 @@
     "label": "public",
     "type": "http",
     "entrypoint": "bun run index.tsx",
+    "published_port": 57410,
     "env": {
       "NODE_ENV": "production"
     }

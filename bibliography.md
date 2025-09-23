@@ -1,0 +1,149 @@
+# Bibliography
+
+*i am not me, but a composite of other not-mes. some shards:*
+
+- **[On Screenwriting](https://soundcloud.com/bafta/charlie-kaufman-screenwriting-lecture)** - *talk, Charlie Kaufman*
+- **[Create Dangerously](http://www.nathanielturner.com/createdangerouslycamus.htm)** - *essay, Albert Camus*
+- **[Machine Dreams](https://www.youtube.com/watch?v=K5nJ5l6dl2s)** - *talk, Joscha Bach*
+- **[Don Quixote](https://www.amazon.com/Don-Quixote-Miguel-Cervantes/dp/0060934344/ref%3Dsr_1_1?amp%3Bie=UTF8&%3Bkeywords=don+quixote+grossman&%3Bqid=1495735600&%3Bsr=1-1&s=books)** - *hero, Miguel Cervantes*
+- **[E Unibus Pluram](https://www.thefreelibrary.com/E%2Bunibus%2Bpluram%3A%2Btelevision%2Band%2BU.S.%2Bfiction.-a013952319)** - *essay, David Foster Wallace*
+- **[Labyrinths](https://www.amazon.com/Labyrinths-Directions-Paperbook-Jorge-Borges/dp/0811216993/ref%3Dpd_lpo_sbs_14_t_0?_encoding=UTF8&%3Bpsc=1&%3BrefRID=D1N8M50SYBM5VH45D089)** - *story collection, Jorge Luis Borges*
+- **[No Country for Old Men](https://letterboxd.com/film/no-country-for-old-men/)** - *film, Cohen Brothers*
+- **[Notes from the Underground](https://www.amazon.com/Underground-Vintage-Classics-Fyodor-Dostoevsky/dp/067973452X)** - *story, Fyodor Dostoevsky*
+- **[Paprika](https://www.youtube.com/watch?v=XDwskCqfwOM)** - *film, Satoshi Kon*
+- **[Chinatown](https://letterboxd.com/film/chinatown/)** - *film, Roman Polanski*
+- **[Burden of Dreams](https://letterboxd.com/film/burden-of-dreams/)** - *documentary, Les Blank*
+- **[Man on Wire](https://letterboxd.com/film/man-on-wire/)** - *documentary, James Marsh*
+- **[Porco Rosso](https://www.imdb.com/title/tt0104652/)** - *film, Hayao Miyazaki*
+- **[The First Man](https://www.goodreads.com/book/show/15694.The_First_Man)** - *novel, Albert Camus*
+- **[No One Belongs Here More Than You](https://www.goodreads.com/book/show/113429.No_One_Belongs_Here_More_Than_You)** - *stories, Miranda July*
+- **[Barbarian Days](https://www.goodreads.com/book/show/18693910-barbarian-days)** - *memoir, William Finnegan*
+- **[La fiancée du pirate](https://letterboxd.com/film/a-very-curious-girl/)** - *film, Nelly Kaplan*
+- **[Puzzle Theory](https://www.ribbonfarm.com/2015/06/04/puzzle-theory/)** - *essay, Sarah Perry*
+- **[Fargo](https://letterboxd.com/film/fargo/)** - *film, Cohen Brothers*
+- **[The Long Goodbye](https://letterboxd.com/film/the-long-goodbye/)** - *film, Robert Altman*
+- **[My Neighbor Totoro](https://letterboxd.com/film/my-neighbor-totoro/)** - *film, Hayao Miyazaki*
+- **[Synecdoche, New York](https://www.youtube.com/watch?v=MnGWXWD1hoM)** - *film, Charlie Kaufman*
+- **[Long Day's Journey into Night](https://letterboxd.com/film/long-days-journey-into-night-2018/)** - *film, Bi Gan*
+- **[Hedwig and the Angry Inch](https://letterboxd.com/film/hedwig-and-the-angry-inch/)** - *film, John Cameron Mitchell*
+- **[The Crack-Up](https://www.amazon.com/Crack-Up-F-Scott-Fitzgerald/dp/0811218201)** - *essay, F Scott Fitzgerald*
+- **[The Great Beauty](https://www.youtube.com/watch?v=9V884vjLfnM)** - *film, Paolo Sorrentino*
+- **[The Kiss](https://en.wikisource.org/wiki/The_Kiss_%28Chekhov/Garnett%29)** - *short story, Anton Chekhov*
+- **[The Last Question](http://www.multivax.com/last_question.html)** - *short story, Isaac Asimov*
+- **[The Seagull](https://www.goodreads.com/book/show/79649.The_Seagull)** - *play, Anton Chekhov*
+- **[Non Fictions](https://www.goodreads.com/book/show/16566.Selected_Non_Fictions)** - *essays, Jorge Luis Borges*
+- **[The Computational Beauty of Nature](https://www.goodreads.com/book/show/248544.The_Computational_Beauty_of_Nature)** - *topics, Gary William Flake*
+- **[The Myth of Sisyphus](https://www.amazon.com/Myth-Sisyphus-Other-Essays/dp/0679733736/ref%3Dsr_1_1?amp%3Bie=UTF8&%3Bkeywords=the+myth+of+sisyphus&%3Bqid=1495735689&%3Bsr=1-1&s=books)** - *essay, Albert Camus*
+- **[Selected Poems](https://www.goodreads.com/book/show/26599.Selected_Poems)** - *poetry, ee cummings*
+- **[The Wind Rises](https://letterboxd.com/film/the-wind-rises/)** - *film, Hayao Miyazaki*
+- **[The Sacrifice](https://letterboxd.com/film/the-sacrifice/)** - *film, Andrei Tarkovsky*
+- **[Blue Octavo Notebooks](https://www.goodreads.com/book/show/22908.Blue_Octavo_Notebooks)** - *writing, Franz Kafka*
+- **[The Road](https://www.amazon.com/Road-Vintage-International-Cormac-McCarthy-ebook/dp/B000OI0G1Q/ref%3Dtmm_kin_swatch_0?_encoding=UTF8&%3Bqid=&%3Bsr=)** - *novel, Cormac McCarthy*
+- **[Long Day's Journey into Night](https://www.amazon.com/Long-Days-Journey-into-Night/dp/0300093055)** - *play, Eugene O'Neill*
+- **[Cinema Paradiso](https://letterboxd.com/film/cinema-paradiso/)** - *film, Giuseppe Tornatore*
+- **[The Lives of Others](https://letterboxd.com/film/the-lives-of-others/)** - *film, Florian Henckel von Donnersmarck*
+- **[Jodorowsky's Dune](https://letterboxd.com/film/jodorowskys-dune/)** - *documentary, Frank Pavich*
+- **[Ice Station Zebra](https://letterboxd.com/film/ice-station-zebra/)** - *film, John Sturges*
+- **[Ako](https://letterboxd.com/film/ako/)** - *short film, Hiroshi Teshigahara*
+- **[Paranoia Agent](https://www.imdb.com/title/tt0433722/)** - *animated series, Satoshi Kon*
+- **[There Will Be Blood](https://www.youtube.com/watch?v=WbRnuwjicUU)** - *film, Paul Thomas Anderson*
+- **[Andrew Kortina](https://kortina.nyc/)** - *friend*
+- **[Iqram Magdon-Ismali](http://www.iqrammusic.com/)** - *friend*
+- **[The Parallax View](https://letterboxd.com/film/the-parallax-view/)** - *film, Alan Pakula*
+- **[Tampopo](https://letterboxd.com/film/tampopo/)** - *film, Juzo Itami*
+- **[Ace in the Hole](https://letterboxd.com/film/ace-in-the-hole/)** - *film, Billy Wilder*
+- **[Archimedes Banya](https://www.google.com/maps/place/Archimedes+Banya/@37.7305314,-122.3749167,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7f69f39bc0b7:0x87813c37cf522568!8m2!3d37.7305314!4d-122.372728)** - *place, San Francisco*
+- **[To the Lighthouse](https://www.amazon.com/Lighthouse-Virginia-Woolf/dp/0156907399/ref%3Dsr_1_1?amp%3Bie=UTF8&%3Bkeywords=to+the+lighthouse&%3Bqid=1495735618&%3Bsr=1-1&s=books)** - *novel, Virginia Woolf*
+- **[Every Cradle is a Grave](https://www.goodreads.com/book/show/23885521-every-cradle-is-a-grave)** - *essay, Sarah Perry*
+- **[Wings of Desire](https://letterboxd.com/film/wings-of-desire/)** - *film, Wim Wenders*
+- **[The Player](https://letterboxd.com/film/the-player/)** - *film, Robert Altman*
+- **[House of Games](https://letterboxd.com/film/house-of-games/)** - *film, David Mamet*
+- **[On the Road](https://www.amazon.com/Road-Jack-Kerouac/dp/0140283293)** - *novel, Jack Kerouac*
+- **[Ways of Seeing](https://www.goodreads.com/book/show/2784.Ways_of_Seeing)** - *book, John Berger*
+- **[Pixote](https://letterboxd.com/film/pixote/)** - *film, Héctor Babenco*
+- **[Bande à part](https://letterboxd.com/film/band-of-outsiders/)** - *film, Jean-Luc Godard*
+- **[Reductionism in Art and Brain Science](https://www.goodreads.com/book/show/29587077-reductionism-in-art-and-brain-science)** - *book, Eric Kandel*
+- **[The Godfather](https://letterboxd.com/film/the-godfather/)** - *film, Francis Ford Coppola*
+- **[The Flame](https://www.goodreads.com/book/show/37941942-the-flame)** - *poetry, Leonard Cohen*
+- **[Fight Club](https://letterboxd.com/film/fight-club/)** - *film, David Fincher*
+- **[Salt, Fat, Acid, Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering-ebook/dp/B01HMXV0UQ/ref%3Dsr_1_1?amp%3Bie=UTF8&%3Bkeywords=salt+fat+acid+heat&%3Bqid=1527737106&%3Bsr=1-1&s=books)** - *cookbook, Samin Nosrat*
+- **[Jean Dielman](https://www.amazon.com/Dielman-Commerce-Bruxelles-English-Subtitled/dp/B071DWQP75/)** - *film, Chantal Akerman*
+- **[One Hundred Years of Solitude](https://www.goodreads.com/book/show/30647523-one-hundred-years-of-solitude)** - *novel, Gabriel Garcia Marquez*
+- **[Notebooks](https://www.goodreads.com/book/show/9236381-notebooks-1942-1951)** - *notebooks, Albert Camus*
+- **[The Death of Ivan Illich](https://www.goodreads.com/book/show/17575112-the-death-of-ivan-ilyich-and-confession)** - *story, Leo Tolstoy*
+- **[Open](https://www.goodreads.com/book/show/8175835-open)** - *memoir, Andre Agassi*
+- **[Thinking in Systems](https://www.goodreads.com/book/show/18891716-thinking-in-systems)** - *book, Donella Meadows*
+- **[A Pattern Language](https://www.goodreads.com/book/show/79766.A_Pattern_Language)** - *book, Christopher Alexander*
+- **[A Swim in a Pond in the Rain](https://www.goodreads.com/en/book/show/53487237-a-swim-in-a-pond-in-the-rain)** - *book, George Saunders*
+- **[The Trial](https://www.goodreads.com/book/show/17692.The_Trial)** - *novel, Franz Kafka*
+- **[The Origin of Wealth](https://www.goodreads.com/en/book/show/22456.The_Origin_of_Wealth)** - *book, Eric Beinhocker*
+- **[In the Mood for Love](https://letterboxd.com/film/in-the-mood-for-love/)** - *film, Wong Kar-Wai*
+- **[Heart of Darkness](https://www.goodreads.com/book/show/34405932-heart-of-darkness)** - *novel, Joseph Conrad*
+- **[The Odyssey](https://www.goodreads.com/book/show/1381.The_Odyssey)** - *story, Homer*
+- **[Le Samouraï](https://letterboxd.com/film/le-samourai/)** - *film, Jean-Pierre Melville*
+- **[The Lessons of History](https://www.goodreads.com/book/show/6940427-the-lessons-of-history)** - *book, Will & Ariel Durant*
+- **[The Forged Coupon](https://www.goodreads.com/book/show/18939043-the-forged-coupon)** - *story, Leo Tolstoy*
+- **[Against Interpretation | On Photography](https://www.goodreads.com/book/show/52374.Against_Interpretation_and_Other_Essays)** - *essays, Susan Sontag*
+- **[Poseidon](/vendor/poseidon)** - *story, Franz Kafka*
+- **[Foresickness](https://vimeo.com/382626787)** - *film essay, Chloé Galibert-Laîné*
+- **[The Little Prince](https://www.goodreads.com/book/show/157993.The_Little_Prince)** - *story, Antoine de Saint-Exupéry*
+- **[The Bet](/vendor/the-bet)** - *story, Anton Chekhov*
+- **[The Society of Mind](https://www.goodreads.com/book/show/326790.The_Society_of_Mind)** - *book, Marvin Minsky*
+- **[Mind Storms](https://www.goodreads.com/book/show/703532.Mindstorms?ac=1&from_search=true)** - *book, Seymour Papert*
+- **[The Days are Just Packed](https://www.goodreads.com/book/show/2976986-days-are-just-packed)** - *comics, Bill Waterson*
+- **[Perfect Blue](https://letterboxd.com/film/perfect-blue/)** - *film, Satoshi Kon*
+- **[Mythologies](https://www.goodreads.com/book/show/51715.Mythologies)** - *essay, Roland Barthes*
+- **[The Singers](/the-singers.pdf)** - *story, Ivan Turgenev*
+- **[My Dinner with Andre](https://letterboxd.com/film/my-dinner-with-andre/)** - *film, Louis Malle*
+- **[Just Kids](https://www.goodreads.com/book/show/341879.Just_Kids)** - *memoir, Patti Smith*
+- **[imsa](https://www.imsa.edu/)** - *school, Illinois*
+- **[American Psycho](https://letterboxd.com/film/american-psycho/)** - *film, Mary Harron*
+- **[Inferno](https://www.goodreads.com/book/show/639386.Dante_s_Inferno)** - *poem, Dante*
+- **[In the Penal Colony](/in-the-penal-colony.pdf)** - *story, Franz Kafka*
+- **[Pi](https://letterboxd.com/film/pi/)** - *film, Darren Aronofsky*
+- **[The Human Condition](https://letterboxd.com/film/the-human-condition-i-no-greater-love/)** - *film, Masaki Kobayashi*
+- **[The Nearest Thing to Life](https://www.goodreads.com/book/show/25411371-the-nearest-thing-to-life)** - *essays, James Wood*
+- **[The Dry Salvages](http://www.davidgorman.com/4Quartets/3-salvages.htm)** - *poem, TS Eliot*
+- **[Kajillionaire](https://letterboxd.com/film/kajillionaire/)** - *film, Miranda July*
+- **[Herzog](https://www.goodreads.com/book/show/6551.Herzog)** - *novel, Saul Bellow*
+- **[Alphaville](https://letterboxd.com/film/alphaville/)** - *film, Jean-Luc Godard*
+- **[La Jetée](https://letterboxd.com/film/la-jetee/)** - *film, Chris Marker*
+- **[Between Past and Future](https://www.goodreads.com/book/show/127226.Between_Past_and_Future?ac=1&from_search=true&qid=4WnJkPirlA&rank=1)** - *essays, Hannah Arendt*
+- **[Waiting for Godot](https://www.goodreads.com/book/show/17716.Waiting_for_Godot)** - *play, Samuel Beckett*
+- **[Once upon a time in America](https://letterboxd.com/film/once-upon-a-time-in-america/)** - *film, Sergio Leone*
+- **[Caligula](https://www.goodreads.com/book/show/15698.Caligula)** - *play, Albert Camus*
+- **[Thema and Louise](https://letterboxd.com/film/thelma-louise/)** - *film, Ridley Scott*
+- **[Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)** - *novel, Aldus Huxley*
+- **[World on a Wire](https://letterboxd.com/film/world-on-a-wire/)** - *film, Rainer Werner Fassbinder*
+- **[Fitzcarraldo](https://www.youtube.com/watch?v=rgYgaJ40mc0)** - *film, Werner Herzog*
+- **[If on a Winter's Night a Traveller](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler)** - *novel, Italo Calvino*
+- **[Candide](https://www.goodreads.com/book/show/19380.Candide)** - *story, Voltaire*
+- **[Dr. Strangelove](https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/)** - *film, Stanley Kubrik*
+- **[Can we survive technology?](/can-we-survive-technology.pdf)** - *essay, John von Neumann*
+- **[Whiplash](https://letterboxd.com/film/whiplash-2014/)** - *film, Damien Chazelle*
+- **[Police Story](https://letterboxd.com/film/police-story/)** - *film, Jackie Chan*
+- **[Overlord](https://www.criterion.com/films/550-overlord)** - *film, Stuart Cooper*
+- **[The Ones Who Walk Away from Omelas](/The-Ones-Who-Walk-Away-From-Omelas.pdf)** - *story, Ursula Le Guin*
+- **[Where is my Friend's House](https://letterboxd.com/film/where-is-my-friends-house/)** - *film, Abbas Kiarostami*
+- **[Los Angeles Plays Itself](https://letterboxd.com/film/los-angeles-plays-itself/)** - *film essay, Thom Andersen*
+- **[Breathless](https://www.youtube.com/watch?v=KuBCXRtFvO8)** - *film, Jean-Luc Godard*
+- **[Something is wrong on the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)** - *essay, James Bridle*
+- **[Tokyo Story](https://letterboxd.com/film/tokyo-story/)** - *film, Yasujirō Ozu*
+- **[How to do Nothing](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)** - *book, Jenny Odell*
+- **[2046](https://www.imdb.com/title/tt0212712/)** - *film, Wong Kar-Wai*
+- **[Moments of Being](https://www.goodreads.com/book/show/14945.Moments_of_Being?ac=1&from_search=true)** - *memoir / essays, Virginia Woolf*
+- **[Blade Runner](https://www.imdb.com/title/tt0083658/)** - *film, Ridley Scott*
+- **[The Carrier Bag Theory of Fiction](/the-carrier-bag-theory-of-fiction.pdf)** - *essay, Ursula Le Guin*
+- **[Beyond Good and Evil](https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil)** - *essay, Friedrich Nietzsche*
+- **[Arcadia](https://www.amazon.com/Arcadia-Play-Tom-Stoppard/dp/0571169341)** - *play, Tom Stoppard*
+- **[The Drunken Boat](https://www.poetryfoundation.org/poems/55036/the-drunken-boat)** - *poem, Arthur Rimbaud*
+- **[A Dream](http://max.mmlc.northwestern.edu/mdenner/Demo/texts/dream.html)** - *poem, Mikhail Lermontov*
+- **[Taxi Driver](https://www.imdb.com/title/tt0075314/)** - *film, Martin Scorsese*
+- **[Crime & Punishment](https://www.penguinrandomhouse.com/books/318117/crime-and-punishment-by-fyodor-dostoyevsky/9780143107637/)** - *novel, Fyodor Dostoyevsky*
+- **[Stalker](https://www.imdb.com/title/tt0079944)** - *film, Andrei Tarkovsky*
+- **[The Seventh Seal](https://www.imdb.com/title/tt0050976)** - *film, Ingmar Bergman*
+- **[Woman In the Dunes](https://www.imdb.com/title/tt0058625/)** - *novel / film, Kobo Abe / Hiroshi Teshigahara*
+- **[Social Life of Small Urban Spaces](https://www.imdb.com/title/tt1778327/)** - *documentary, William Whyte*
+- **[Sculpting In Time](https://www.goodreads.com/book/show/28495.Sculpting_in_Time)** - *essay, Andrei Tarkovsky*
+- **[Journey to the End of the Night](https://www.goodreads.com/book/show/12395.Journey_to_the_End_of_the_Night)** - *novel, Louis-Ferdinand Céline*
+- **[The Moon and the Bonfire](https://www.goodreads.com/book/show/132376.The_Moon_and_the_Bonfire)** - *novel, Cesare Pavese*
