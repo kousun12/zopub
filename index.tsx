@@ -5,7 +5,7 @@ import config from "./zosite.json";
 
 const app = new Hono();
 
-const css = html`
+const css = `
   body {
     font-family: 'Playfair Display', serif;
     background-color: #e6d7c3;
@@ -30,7 +30,7 @@ const Layout: FC = (props) => {
         <meta name="robots" content="noindex, nofollow" />
         <title>{config.name}</title>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
-        <style>{css}</style>
+        <style dangerouslySetInnerHTML={{ __html: css }} />
       </head>
       <body>{props.children}</body>
     </html>
