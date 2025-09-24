@@ -74,7 +74,16 @@
       animation: scroll-left 60s linear infinite;
       /* Ensure seamless loop by making content exactly 2x the visible width */
     }
-    .scroll-content img { height: 100%; width: auto; display: block; flex-shrink: 0; }
+    .scroll-content img { 
+      height: 100%; 
+      width: auto; 
+      display: block; 
+      flex-shrink: 0; 
+      opacity: 0.7;
+    }
+    .scroll-content img:hover { 
+      opacity: 1;
+    }
     @keyframes scroll-left { 
       0% { transform: translateX(0); } 
       100% { transform: translateX(-50%); } 
@@ -122,6 +131,7 @@
         <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
         <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
         <img src="/res/doom.webp" alt="DOOM (1993)" />
+        <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
         <img src="/res/sims1.webp" alt="The Sims (2000)" />
         <img src="/res/minecraft.png" alt="Minecraft (2011)" />
         <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
@@ -131,6 +141,7 @@
         <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
         <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
         <img src="/res/doom.webp" alt="DOOM (1993)" />
+        <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
         <img src="/res/sims1.webp" alt="The Sims (2000)" />
         <img src="/res/minecraft.png" alt="Minecraft (2011)" />
         <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
@@ -138,9 +149,9 @@
       </div>
     </div>
 
-    <img class="prose-image" src="/res/FeynmanCov.jpg.2400x800_q85.jpg" alt="Feynman" />
+    <p style="margin-top:48px;">Richard Feynman apparently had on his blackboard at the time of his death “What I cannot create, I do not understand”. It’s a maxim that captures the productive friction of programming. Computers enforce understanding because they make both the definitions and the consequences of your ideas precise. The gap between what you mean and what you say manifests as a long painful road of errors, bugs, and refactors. What you get in return for this effort is demonstrable knowledge. A model that runs is a model that can be verified.</p>
 
-    <p>Richard Feynman apparently had on his blackboard at the time of his death “What I cannot create, I do not understand”. It’s a maxim that captures the productive friction of programming. Computers enforce understanding because they make both the definitions and the consequences of your ideas precise. The gap between what you mean and what you say manifests as a long painful road of errors, bugs, and refactors. What you get in return for this effort is demonstrable knowledge. A model that runs is a model that can be verified.</p>
+    <img class="prose-image" src="/res/FeynmanCov.jpg.2400x800_q85.jpg" alt="Feynman" />
 
     <h2>The conversational shell</h2>
 
