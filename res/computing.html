@@ -15,6 +15,7 @@
       padding: 2rem;
       line-height: 1.7;
       color: #2c2c2c;
+      overflow-x: hidden;
     }
 
     a { color: #8b4513; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom .2s ease; }
@@ -22,7 +23,7 @@
 
     .computing-container { max-width: 65ch; margin: 0 auto; padding: 2rem 0; }
 
-    .hero { position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-bottom: 2rem; }
+    .hero { position: relative; width: 100vw; left: 50%; margin-left: -50vw; margin-right: 0; margin-bottom: 2rem; }
     .hero img { width: 100vw; height: 400px; object-fit: cover; display: block; }
     .hero h1 {
       position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
@@ -37,10 +38,25 @@
     em { color: #666; }
 
     /* Full-bleed strip images */
-    .strip-image { width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; object-fit: cover; height: 400px; display: block; margin: 2rem 0; }
+    .strip-image { 
+      width: 100vw; 
+      margin-left: calc(-50vw + 50%); 
+      object-fit: cover; 
+      height: 400px; 
+      display: block; 
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
 
     /* Endless scrolling gallery */
-    .scrolling-strip { width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; height: 200px; overflow: hidden; margin: 1rem 0; }
+    .scrolling-strip { 
+      width: 100vw; 
+      margin-left: calc(-50vw + 50%); 
+      height: 200px; 
+      overflow: hidden; 
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
     .scroll-content { display: flex; height: 100%; will-change: transform; animation: scroll-left 30s linear infinite; }
     .scroll-content img { height: 100%; width: auto; display: block; flex-shrink: 0; }
     @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
