@@ -37,6 +37,16 @@
     blockquote { border-left: 4px solid #8b4513; padding-left: 1rem; margin: 1.5rem 0; font-style: italic; color: #666; }
     em { color: #666; }
 
+    /* Prose-width images */
+    .prose-image {
+      width: 100%;
+      max-width: 65ch;
+      height: auto;
+      display: block;
+      margin: 2rem auto;
+      border-radius: 8px;
+    }
+
     /* Full-bleed strip images */
     .strip-image { 
       width: 100vw; 
@@ -57,9 +67,18 @@
       margin-top: 1rem;
       margin-bottom: 1rem;
     }
-    .scroll-content { display: flex; height: 100%; will-change: transform; animation: scroll-left 30s linear infinite; }
+    .scroll-content { 
+      display: flex; 
+      height: 100%; 
+      will-change: transform; 
+      animation: scroll-left 60s linear infinite;
+      /* Ensure seamless loop by making content exactly 2x the visible width */
+    }
     .scroll-content img { height: 100%; width: auto; display: block; flex-shrink: 0; }
-    @keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+    @keyframes scroll-left { 
+      0% { transform: translateX(0); } 
+      100% { transform: translateX(-50%); } 
+    }
 
     /* Footnote */
     .footnote { font-size: .9rem; color: #888; margin-top: 2rem; border-top: 1px solid #ddd; padding-top: 1rem; }
@@ -99,27 +118,27 @@
     <div class="scrolling-strip">
       <div class="scroll-content">
         <!-- Set A -->
-        <img src="/res/pong-1972.webp" alt="Pong" />
-        <img src="/res/pacman-1980.jpg" alt="Pac-Man" />
-        <img src="/res/superstreetfighter.png" alt="Street Fighter" />
-        <img src="/res/doom.webp" alt="DOOM" />
-        <img src="/res/minecraft.png" alt="Minecraft" />
-        <img src="/res/sims1.webp" alt="The Sims" />
-        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077" />
-        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator" />
+        <img src="/res/pong-1972.webp" alt="Pong (1972)" />
+        <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
+        <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
+        <img src="/res/doom.webp" alt="DOOM (1993)" />
+        <img src="/res/sims1.webp" alt="The Sims (2000)" />
+        <img src="/res/minecraft.png" alt="Minecraft (2011)" />
+        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
+        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
         <!-- Set B (duplicate for seamless loop) -->
-        <img src="/res/pong-1972.webp" alt="Pong" />
-        <img src="/res/pacman-1980.jpg" alt="Pac-Man" />
-        <img src="/res/superstreetfighter.png" alt="Street Fighter" />
-        <img src="/res/doom.webp" alt="DOOM" />
-        <img src="/res/minecraft.png" alt="Minecraft" />
-        <img src="/res/sims1.webp" alt="The Sims" />
-        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077" />
-        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator" />
+        <img src="/res/pong-1972.webp" alt="Pong (1972)" />
+        <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
+        <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
+        <img src="/res/doom.webp" alt="DOOM (1993)" />
+        <img src="/res/sims1.webp" alt="The Sims (2000)" />
+        <img src="/res/minecraft.png" alt="Minecraft (2011)" />
+        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
+        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
       </div>
     </div>
 
-    <img class="strip-image" src="/res/FeynmanCov.jpg.2400x800_q85.jpg" alt="Feynman" />
+    <img class="prose-image" src="/res/FeynmanCov.jpg.2400x800_q85.jpg" alt="Feynman" />
 
     <p>Richard Feynman apparently had on his blackboard at the time of his death “What I cannot create, I do not understand”. It’s a maxim that captures the productive friction of programming. Computers enforce understanding because they make both the definitions and the consequences of your ideas precise. The gap between what you mean and what you say manifests as a long painful road of errors, bugs, and refactors. What you get in return for this effort is demonstrable knowledge. A model that runs is a model that can be verified.</p>
 
