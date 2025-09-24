@@ -74,14 +74,38 @@
       animation: scroll-left 60s linear infinite;
       /* Ensure seamless loop by making content exactly 2x the visible width */
     }
+    .scroll-item {
+      position: relative;
+      height: 100%;
+      flex-shrink: 0;
+    }
     .scroll-content img { 
       height: 100%; 
       width: auto; 
       display: block; 
       flex-shrink: 0; 
       opacity: 0.7;
+      transition: opacity 0.2s ease;
     }
-    .scroll-content img:hover { 
+    .scroll-item:hover img { 
+      opacity: 1;
+    }
+    .scroll-title {
+      position: absolute;
+      bottom: 4px;
+      right: 4px;
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 9px;
+      padding: 2px 4px;
+      border-radius: 2px;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .scroll-item:hover .scroll-title {
       opacity: 1;
     }
     @keyframes scroll-left { 
@@ -127,29 +151,95 @@
     <div class="scrolling-strip">
       <div class="scroll-content">
         <!-- Set A -->
-        <img src="/res/pong-1972.webp" alt="Pong (1972)" />
-        <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
-        <img src="/res/oregon-trail.webp" alt="Oregon Trail (1985)" />
-        <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
-        <img src="/res/doom.webp" alt="DOOM (1993)" />
-        <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
-        <img src="/res/sims1.webp" alt="The Sims (2000)" />
-        <img src="/res/minecraft.png" alt="Minecraft (2011)" />
-        <img src="/res/red-dead-2.webp" alt="Red Dead Redemption 2 (2018)" />
-        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
-        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
+        <div class="scroll-item">
+          <img src="/res/pong-1972.webp" alt="Pong (1972)" />
+          <span class="scroll-title">Pong 1972</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
+          <span class="scroll-title">Pac-Man 1980</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/oregon-trail.webp" alt="Oregon Trail (1985)" />
+          <span class="scroll-title">Oregon Trail 1985</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
+          <span class="scroll-title">Street Fighter 1991</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/doom.webp" alt="DOOM (1993)" />
+          <span class="scroll-title">DOOM 1993</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
+          <span class="scroll-title">Final Fantasy VIII 1999</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/sims1.webp" alt="The Sims (2000)" />
+          <span class="scroll-title">The Sims 2000</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/minecraft.png" alt="Minecraft (2011)" />
+          <span class="scroll-title">Minecraft 2011</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/red-dead-2.webp" alt="Red Dead Redemption 2 (2018)" />
+          <span class="scroll-title">Red Dead Redemption 2 2018</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
+          <span class="scroll-title">Cyberpunk 2077 2020</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
+          <span class="scroll-title">Microsoft Flight Simulator 2020</span>
+        </div>
         <!-- Set B (duplicate for seamless loop) -->
-        <img src="/res/pong-1972.webp" alt="Pong (1972)" />
-        <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
-        <img src="/res/oregon-trail.webp" alt="Oregon Trail (1985)" />
-        <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
-        <img src="/res/doom.webp" alt="DOOM (1993)" />
-        <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
-        <img src="/res/sims1.webp" alt="The Sims (2000)" />
-        <img src="/res/minecraft.png" alt="Minecraft (2011)" />
-        <img src="/res/red-dead-2.webp" alt="Red Dead Redemption 2 (2018)" />
-        <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
-        <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
+        <div class="scroll-item">
+          <img src="/res/pong-1972.webp" alt="Pong (1972)" />
+          <span class="scroll-title">Pong 1972</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/pacman-1980.jpg" alt="Pac-Man (1980)" />
+          <span class="scroll-title">Pac-Man 1980</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/oregon-trail.webp" alt="Oregon Trail (1985)" />
+          <span class="scroll-title">Oregon Trail 1985</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/superstreetfighter.png" alt="Street Fighter (1991)" />
+          <span class="scroll-title">Street Fighter 1991</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/doom.webp" alt="DOOM (1993)" />
+          <span class="scroll-title">DOOM 1993</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/ffviii.jpg" alt="Final Fantasy VIII (1999)" />
+          <span class="scroll-title">Final Fantasy VIII 1999</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/sims1.webp" alt="The Sims (2000)" />
+          <span class="scroll-title">The Sims 2000</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/minecraft.png" alt="Minecraft (2011)" />
+          <span class="scroll-title">Minecraft 2011</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/red-dead-2.webp" alt="Red Dead Redemption 2 (2018)" />
+          <span class="scroll-title">Red Dead Redemption 2 2018</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/cyberpunk-2-3.webp" alt="Cyberpunk 2077 (2020)" />
+          <span class="scroll-title">Cyberpunk 2077 2020</span>
+        </div>
+        <div class="scroll-item">
+          <img src="/res/flightsim.webp" alt="Microsoft Flight Simulator (2020)" />
+          <span class="scroll-title">Microsoft Flight Simulator 2020</span>
+        </div>
       </div>
     </div>
 
