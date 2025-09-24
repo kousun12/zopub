@@ -25,9 +25,22 @@
 
     h1 {
       font-size: 2.5rem;
-      margin-bottom: 2rem;
-      color: #1a1a1a;
+      margin: 0;
+      color: white;
       text-align: center;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+
+    .hero {
+      position: relative;
+      margin-bottom: 2rem;
+    }
+
+    .hero h1 {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
 
     h2 {
@@ -93,9 +106,11 @@
 </head>
 <body>
   <div class="computing-container">
-    <h1>Idea Machines: LeWitt, Language, and Computing</h1>
+    <div class="hero">
+      <h1>Idea Machines: LeWitt, Language, and Computing</h1>
 
-    <img class="strip-image" src="/res/lewitt-wd-16.jpg" alt="Sol LeWitt Wall Drawing" />
+      <img class="strip-image" src="/res/lewitt-wd-16.jpg" alt="Sol LeWitt Wall Drawing" />
+    </div>
 
     <p>Human ideas are abundant, but our ability to translate them into working systems is scarce. The bottleneck is formalization—turning intent into precise, executable form. Historically, only a small technical elite could do this, which concentrates agency and leaves most people limited to consuming what others build, but that is changing...</p>
 
